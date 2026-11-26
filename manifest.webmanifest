@@ -1,0 +1,16 @@
+{
+  "name": "Chronoglobe",
+  "short_name": "Chronoglobe",
+  "description": "Spin a globe through 4.5 billion years and step inside 3D reconstructions of historic places.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
